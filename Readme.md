@@ -15,6 +15,6 @@ Soy un desarrollador de software con experiencia en diversos proyectos y tecnolo
 - Otros: Git, Docker
 
 ## Contacto 📧
-- Correo electrónico: [correo@ejemplo.com](mailto:erick.tequiz@yachaytech.edu.ec)
+- Correo electrónico: [erick.tequiz@yachaytech.edu.ec](mailto:erick.tequiz@yachaytech.edu.ec)
 - LinkedIn: [linkedin.com/in/erick-tequiz](https://www.linkedin.com/in/erick-tequiz/)
 - Sitio web: [erick-tx.github.io](https://erick-tx.github.io/)
