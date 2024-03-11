@@ -1,4 +1,4 @@
-# Erick Téquiz
+#Erick Téquiz
 
 ¡Hola! Soy Erick Téquiz, un desarrollador apasionado por la tecnología y la programación. Aquí encontrarás un resumen de mi experiencia y habilidades:
 
