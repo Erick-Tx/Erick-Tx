@@ -10,8 +10,8 @@ Soy un desarrollador de software con experiencia en diversos proyectos y tecnolo
 
 ## Habilidades 💻
 - Lenguajes de programación: JavaScript, Python, PHP
-- Frameworks: React, Angular, NodeJs
-- Bases de datos: MySQL, MongoDB
+- Frameworks: React, NodeJs, Bootstrap
+- Bases de datos: MongoDB, Postgres, SQLite 
 - Otros: Git, Docker
 
 ## Contacto 📧
